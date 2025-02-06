@@ -1,0 +1,14 @@
+R
+P
+4
+10000 100 10 5
+5
+combined-testing.bin
+T
+1 0 0 0 0
+0 1 0 0 0
+0 0 1 0 0
+0 0 0 1 0
+0 0 0 0 1
+
+bestWeights3.txt
